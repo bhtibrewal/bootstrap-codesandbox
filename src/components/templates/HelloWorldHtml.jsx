@@ -5,7 +5,7 @@ export const HelloWorldHtml = () => {
     <div className="col-6 bg-light mx-auto text-center">
       <h1>Hello</h1>
       <p>Some paragraph text</p>
-      <button className="btn btn-">Click</button>
+      <button className="btn btn-dark">Click</button>
     </div>
   );
 };
